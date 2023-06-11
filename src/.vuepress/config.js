@@ -60,7 +60,7 @@ module.exports = {
     'vuepress-plugin-comment-plus':{
 	choosen: 'waline',    
         options: {
-        el: '#waline-vuepress-comment',
+        el: '#valine-vuepress-comment',
         serverURL: 'https://api.taoisms.org.cn',
 	lang: 'zh-CN',
         reaction: true,
