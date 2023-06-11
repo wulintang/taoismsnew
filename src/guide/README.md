@@ -132,27 +132,27 @@ TAOISCMS的数据安全处理是由南通伍林堂文化传播有限公司旗下
 
 #### 普通连接
 
-方法：`[普通链接](https://www.xiudaohu.cn)`
+方法：`[普通链接](https://www.taoism.org.cn)`
 
-[普通链接](https://www.xiudaohu.cn)
+[普通链接](https://www.taoism.org.cn)
 
 #### 带标题链接
 
-方法：`[普通链接带标题](https://www.xiudaohu.cn "普通链接带标题")`
+方法：`[普通链接带标题](https://www.taoism.org.cn "普通链接带标题")`
 
-[普通链接带标题](https://www.xiudaohu.cn "普通链接带标题")
+[普通链接带标题](https://www.taoism.org.cn "普通链接带标题")
 
 #### 直接链接
 
-方法：`<https://www.xiudaohu.cn>`
+方法：`<https://www.taoism.org.cn>`
 
-[https://www.xiudaohu.cn](https://www.xiudaohu.cn)
+[https://www.taoism.org.cn](https://www.taoism.org.cn)
 
 #### 邮箱链接
 
-方法：`[mailto:wulintang@ccwadj.cn](mailto:twulintang@ccwadj.cn)`
+方法：`[mailto:wulintang@ccwadj.cn](mailto:wulintang@ccwadj.cn)`
 
-[mailto:wulintang@ccwadj.cn](mailto:twulintang@ccwadj.cn)
+[mailto:wulintang@ccwadj.cn](mailto:wulintang@ccwadj.cn)
 
 ### 多语言代码高亮 Codes
 
@@ -216,7 +216,7 @@ function test() {
 
 #### 图片示例
 
-![图片示例](https://www.taoisms.org.cn/logo.png "漏尽阁·修道乎")
+![图片示例](https://www.taoisms.org.cn/logo.png "道教之家")
 
 #### 图片加链接 (Image + Link)：
 
@@ -295,18 +295,18 @@ function test() {
 ```html
 | 普通表格 | 居中展示 | 居右展示 | 居左展示 |
 | ------ | :------: | ------: | :------ |
-| 普通表格 | 居中 | [超链](https://www.xiudaohu.cn "超链的标题") |居左 |
-| 普通表格 | [超链](https://www.xiudaohu.cn "超链的标题") | 居右 |居左 |
-| [超链](https://www.xiudaohu.cn "超链的标题") | 居中 | 居右 |[超链](https://www.xiudaohu.cn "超链的标题") |
+| 普通表格 | 居中 | [超链](https://www.taoism.org.cn "超链的标题") |居左 |
+| 普通表格 | [超链](https://www.taoism.org.cn "超链的标题") | 居右 |居左 |
+| [超链](https://www.taoism.org.cn "超链的标题") | 居中 | 居右 |[超链](https://www.xiudaohu.cn "超链的标题") |
 ```
 
 **表格内超链展示**
 
 | 普通表格                                     |                   居中展示                   |                                     居右展示 | 居左展示                                     |
 | -------------------------------------------- | :------------------------------------------: | -------------------------------------------: | :------------------------------------------- |
-| 普通表格                                     |                     居中                     | [超链](https://www.xiudaohu.cn "超链的标题") | 居左                                         |
-| 普通表格                                     | [超链](https://www.xiudaohu.cn "超链的标题") |                                         居右 | 居左                                         |
-| [超链](https://www.xiudaohu.cn "超链的标题") |                     居中                     |                                         居右 | [超链](https://www.xiudaohu.cn "超链的标题") |
+| 普通表格                                     |                     居中                     | [超链](https://www.taoism.org.cn "超链的标题") | 居左                                         |
+| 普通表格                                     | [超链](https://www.taoism.org.cn "超链的标题") |                                         居右 | 居左                                         |
+| [超链](https://www.taoism.org.cn "超链的标题") |                     居中                     |                                         居右 | [超链](https://www.taoism.org.cn "超链的标题") |
 
 ·表格第二行`| ------ | :------: | ------: | :------ |` 分别为无样式、居中、居右、居左。
 
@@ -319,14 +319,26 @@ function test() {
 可通过emoji表情代码为文档增加乐趣。
 ## 特别鸣谢
 
-白云深处道人家 [http://www.homeinmists.com/](http://www.homeinmists.com/)
+白云深处道人家
 
-白云生版漏尽阁 [http://www.xiulian.cn/](http://www.xiulian.cn/)
+[http://www.homeinmists.com/](http://www.homeinmists.com/)
 
-道教之家 [https://www.taoisms.org/](https://www.taoisms.org/)
+白云生版漏尽阁 
 
-道教之音 [https://www.daoisms.org/](https://www.daoisms.org/)
+[http://www.xiulian.cn/](http://www.xiulian.cn/)
 
-道门网 [http://www.daomen.org/](http://www.daomen.org/)
+道教之家 
 
-道门网版修道乎 <s>[http://www.xiudaohu.com/](http://www.xiudaohu.com/)</s>
+[https://www.taoisms.org.cn/](https://www.taoisms.org.cn/)
+
+道教之音 
+
+[https://www.daoisms.org/](https://www.daoisms.org/)
+
+道门网 
+
+[http://www.daomen.org/](http://www.daomen.org/)
+
+道门网版修道乎 
+
+<s>[http://www.xiudaohu.com/](http://www.xiudaohu.com/)</s>
