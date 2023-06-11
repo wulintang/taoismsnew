@@ -97,7 +97,7 @@ module.exports = {
         autoShrink: true,
       },
     '@vuepress/medium-zoom': {
-        selector: '.page img',
+        selector: '.theme-default-content .content__default img',
         delay: 1000,
         options: {
           margin: 24,
