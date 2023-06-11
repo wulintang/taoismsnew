@@ -35,7 +35,7 @@ module.exports = {
   },
     themeConfig: { 
     lastUpdated: '上次更新',    
-    displayAllHeaders: false, // 默认值：false
+    displayAllHeaders: false,
     smoothScroll: true,
     nextLinks: true,
     prevLinks: true,
@@ -81,7 +81,7 @@ module.exports = {
       },
     '@vuepress/back-to-top': true, 
     '@vuepress/search': {
-        search: true, //默认false
+        search: true,
         searchMaxSuggestions: 10 // 默认是5
         },
     '@vuepress/nprogress':true, //默认为true，设置为false可以关闭进度条
