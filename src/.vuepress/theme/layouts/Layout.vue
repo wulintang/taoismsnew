@@ -31,7 +31,7 @@
       <Vssue class="theme-default-content content__default" :options="{ locale: 'zh' }">
 <script>
   cardLink.server = 'https://cardlink-server.deta.dev/?url=' ;
-  cardLink(document.querySelectorAll('a[target=_blank].url,.external_link_security_jump'))
+  cardLink(document.querySelectorAll('a[target=_blank].url'))
 </script>
     </template>
   </ParentLayout>
