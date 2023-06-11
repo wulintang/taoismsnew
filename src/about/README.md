@@ -13,12 +13,19 @@ tags:
 ## 运营团队
 
 盘龙阁权益保护委员会
+
 [http://www.taoisms.cn/](http://www.taoisms.cn/)
+
 伍林堂CMS开源项目部
+
 [http://www.rushidao.org.cn/](http://www.rushidao.org.cn/)
+
 伍林堂表砸开源项目部
+
 [http://www.biaoza.club/](http://www.biaoza.club/)
+
 伍林堂科技事业发展部
+
 [http://www.wulintang.xyz/](http://www.wulintang.xyz/)
 
 | `项目经理` | 李懋和    |
@@ -32,6 +39,7 @@ tags:
 | `广告A位`  | 1280¥/月 |
 | `广告B位`  | 1280¥/月 |
 | `广告C位`  | 5280¥/月 |
+| `广告D位`  | 4800¥/月 |
 
 ### 付款方式
 
