@@ -7,14 +7,11 @@ tags:
 - 安装
 ---
 
-# Config
+# 配置
 
-## foo
+## 安装
 
-- Type: `string`
-- Default: `/`
 
-## bar
 
-- Type: `string`
-- Default: `/`
+## 拓展
+
