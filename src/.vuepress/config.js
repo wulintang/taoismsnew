@@ -58,6 +58,7 @@ module.exports = {
     },
  plugins: {
     'vuepress-plugin-comment-plus':{
+	choosen: 'valine',    
         options: {
         el: '#valine-vuepress-comment',
         serverURL: 'https://api.taoisms.org.cn',
