@@ -87,13 +87,13 @@ tags:
 
 ## 申请友链
 
-在 [关于我们](https://www.xiudaohu.cn/about/) 或者 在本页面评论区留言您的友链信息，格式：(点击代码块右下角一键复制)
+在 [关于我们](/about/) 或者 在本页面评论区留言您的友链信息，格式：(点击代码块右下角一键复制)
 
 ```html
-name: 漏尽阁·修道乎 #昵称
-desc: 中華傳統道文化数字圖書館 #介绍
-avatar: https://www.xiudaohu.cn/logo.png #头像
-link: https://www.xiudaohu.cn/ #链接
+name: TAOISCMS #昵称
+desc: 道教之家CMS开源项目 #介绍
+avatar: https://www.taoisms.org.cn/logo.png #头像
+link: https://www.taoisms.org.cn/ #链接
 ```
 
 情况说明：所有网站的介绍限定9个字内，不允许超过9个字，这是本站最基础的要求。
