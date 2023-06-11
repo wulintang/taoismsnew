@@ -14,7 +14,6 @@ module.exports = {
         ["script",{src: "/js/autopush-baidu.js"}],
         ["script",{src: "/js/autopush-360.js"}],
         ["script",{src: "/js/autopush-51la.js"}],
-	["script",{src: "/js/cardLink.js"}],
 	['script', { src: 'https://zhihu.lizhichen.cn/cardlink.js' }],    
         ['script', { src: 'https://www.abcdefghijklmnopqrstuvwxyzzyxwvutsrqponmlkjihgfedcba.cn/daohang/html/js/jquery.cookie.js' }],
         ['script', { src: 'https://www.abcdefghijklmnopqrstuvwxyzzyxwvutsrqponmlkjihgfedcba.cn/daohang/html/js/jquery.fixed.js' }],
