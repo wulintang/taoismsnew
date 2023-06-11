@@ -317,3 +317,16 @@ function test() {
 😀😁😂😃😄😅😆😉😊😋😎😍😘😗😙😚🙂🤗😇🤓🤔😐😑😶🙄😏😣😥😮🤐😯😪😫😴😌😛😜😝😒😓😔😕🙃🤑😲😷🤒🤕🙁😖😞😟😤😢😭😦😧😨😩😬😰😱
 
 可通过emoji表情代码为文档增加乐趣。
+## 特别鸣谢
+
+白云深处道人家 [http://www.homeinmists.com/](http://www.homeinmists.com/)
+
+白云生版漏尽阁 [http://www.xiulian.cn/](http://www.xiulian.cn/)
+
+道教之家 [https://www.taoisms.org/](https://www.taoisms.org/)
+
+道教之音 [https://www.daoisms.org/](https://www.daoisms.org/)
+
+道门网 [http://www.daomen.org/](http://www.daomen.org/)
+
+道门网版修道乎 <s>[http://www.xiudaohu.com/](http://www.xiudaohu.com/)</s>
