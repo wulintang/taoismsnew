@@ -1,0 +1,40 @@
+{
+  "name": "taoisms",
+  "version": "1.0.0",
+  "description": "中華傳統道文化數字圖書館",
+  "keywords": "道教,道家,道学,修身,道家,修真,道教,中医,气功,武术,漏尽阁,修道乎,鬼谷子,鬼谷子纵横智慧,鬼谷子论坛,鬼谷子社区,鬼谷子的局,谋圣鬼谷子,纵横智慧官网,鬼谷子绝学,道教社区,道教论坛,道教之家",
+  "private": true,
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "engines": {
+    "node": ">=14.0.0 <18.0.0"
+  },
+  "devDependencies": {
+    "vuepress": "1.9.9",
+    "@vuepress-reco/vuepress-plugin-bgm-player": "^1.1.3",
+    "@vuepress-reco/vuepress-plugin-rss": "^1.0.2",
+    "@vuepress/plugin-back-to-top": "^1.8.0",
+    "@vuepress/plugin-medium-zoom": "^1.8.0",
+    "@vuepress/plugin-pwa": "^1.8.2",
+    "vuepress-plugin-comment-plus": "^1.1.0",
+    "@vuepress/plugin-search": "^1.8.0",
+    "vuepress-plugin-element-ui": "^1.1.0",
+    "vuepress-plugin-meting": "^0.1.1",
+    "vuepress-plugin-qrcode": "^1.0.4",
+    "vuepress-plugin-rss": "^2.0.0",
+    "vuepress-plugin-social-share": "^1.0.0",
+    "vuepress-plugin-sponsor": "^1.0.0"
+  },
+  "dependencies": {
+    "babel-plugin-dynamic-import-node": "^2.3.3",
+    "social-share.js": "^1.0.16",
+    "vuepress-plugin-baidu-tongji-analytics": "^1.0.2",
+    "vuepress-plugin-code-copy": "^1.0.6",
+    "vuepress-plugin-copyright": "^1.0.2",
+    "vuepress-plugin-robots": "^1.0.1",
+    "vuepress-plugin-sitemap": "^2.3.1",
+    "vuepress-plugin-tags": "1.0.2"
+  }
+}
