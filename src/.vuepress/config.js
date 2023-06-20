@@ -17,7 +17,6 @@ module.exports = {
         ['script', { src: 'https://www.abcdefghijklmnopqrstuvwxyzzyxwvutsrqponmlkjihgfedcba.cn/daohang/html/js/jquery.cookie.js' }],
         ['script', { src: 'https://www.abcdefghijklmnopqrstuvwxyzzyxwvutsrqponmlkjihgfedcba.cn/daohang/html/js/jquery.fixed.js' }],
         ['script', { src: 'https://www.abcdefghijklmnopqrstuvwxyzzyxwvutsrqponmlkjihgfedcba.cn/daohang/html/js/init.fixed.js' }],
-	['script', { 'async' src: 'https://tongji.wulintang.cn/wulintang' data-website-id='e86f591c-0f58-48e9-abcc-be7a5f52904e'}],    
         ['link', {rel: 'manifest', href: `/manifest.json`}],
         ['link', { rel: 'stylesheet', type: 'text/css', href: 'https://www.abcdefghijklmnopqrstuvwxyzzyxwvutsrqponmlkjihgfedcba.cn/ziti/font.css' }],
         ['link', { rel: 'stylesheet', type: 'text/css', href: 'https://www.abcdefghijklmnopqrstuvwxyzzyxwvutsrqponmlkjihgfedcba.cn/ziti/icon/chndao.css' }],
