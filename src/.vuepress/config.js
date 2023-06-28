@@ -45,6 +45,7 @@ module.exports = {
           { text: '指南', link: '/guide/' },
           { text: '配置', link: '/config/' },
           { text: '插件', link: '/plugin/' },
+	  { text: '演示', link: 'https://taoisms.org.cn' },	
           {
             text: '关于我们',
             items: [
