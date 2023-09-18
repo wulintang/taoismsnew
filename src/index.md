@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: https://cdn.jsdelivr.net/gh/wulintang/cdn/taiji/login_logo.png
+heroImage: https://cdn.wulintang.cn/taiji/login_logo.png
 actionText: 开始上手 →
 actionLink: /guide/
 features:
