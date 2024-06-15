@@ -21,13 +21,7 @@ features:
     <li>
       <a href="https://www.taoisms.cn/" target="_blank" title="盘龙阁权益保护委员会">盘龙阁权益保护委员会</a></li>
     <li>
-      <a href="http://www.zhtaoism.com/" target="_blank" title="伍林堂汉文化研究中心">伍林堂汉文化研究中心</a></li>
-    <li>
       <a href="http://www.rushidao.org.cn/" target="_blank" title="伍林堂CMS开源项目部">伍林堂CMS开源项目部</a></li>
-    <li>
-      <a href="http://www.biaoza.club/" target="_blank" title="伍林堂表砸开源项目部">伍林堂表砸开源项目部</a></li>
-    <li>
-      <a href="http://www.yangtuo.live/" target="_blank" title="伍林堂羊驼互动娱乐部">伍林堂羊驼互动娱乐部</a></li>
     <li>
       <a href="http://www.wulintang.ltd/" target="_blank" title="伍林堂文娱事业发展部">伍林堂文娱事业发展部</a></li>
     <li>
