@@ -14,34 +14,28 @@ tags:
 <div class="cardListContainer">
   <div class="card-list">
     <a href="https://www.taoisms.org.cn" target="_blank" class="card-item row-3" style="background: linear-gradient(to right,#feac5e,#c779d0,#4bc0c8);">
-      <img src="https://www.isosou.cn/ico/?url=https://www.taoisms.org.cn" onerror="this.src='/favicon.ico'" class="no-zoom">
+      <img src="https://cdn.wulintang.cn/ico/?url=https://www.taoisms.org.cn" onerror="this.src='/favicon.ico'" class="no-zoom">
       <div>
         <p class="name">云道家</p>
         <p class="desc">中国道教自媒体平台</p></div>
     </a>
     <a href="https://www.daoyue.org.cn" target="_blank" class="card-item row-3" style="background: linear-gradient(to right,#feac5e,#c779d0,#4bc0c8);">
-      <img src="https://www.isosou.cn/ico/?url=https://www.daoyue.org.cn" onerror="this.src='/favicon.ico'" class="no-zoom">
+      <img src="https://cdn.wulintang.cn/ico/?url=https://www.daoyue.org.cn" onerror="this.src='/favicon.ico'" class="no-zoom">
       <div>
         <p class="name">云道乐</p>
         <p class="desc">中国道教原创音乐馆</p></div>
     </a>
-    <a href="https://www.chndao.com/" target="_blank" class="card-item row-3" style="background: linear-gradient(to right,#feac5e,#c779d0,#4bc0c8);">
-      <img src="https://www.isosou.cn/ico/?url=https://www.chndao.com" onerror="this.src='/favicon.ico'" class="no-zoom">
-      <div>
-        <p class="name">云道商</p>
-        <p class="desc">道教云电子商务平台</p></div>
-    </a>
     <a href="https://www.zuori.net.cn" target="_blank" class="card-item row-3" style="background: linear-gradient(to right,#feac5e,#c779d0,#4bc0c8);">
-      <img src="https://www.isosou.cn/ico/?url=https://www.zuori.net.cn" onerror="this.src='/favicon.ico'" class="no-zoom">
+      <img src="https://cdn.wulintang.cn/ico/?url=https://www.zuori.net.cn" onerror="this.src='/favicon.ico'" class="no-zoom">
       <div>
-        <p class="name">云道航</p>
-        <p class="desc">中国道教绿色导航</p></div>
+        <p class="name">昨日头条</p>
+        <p class="desc">一个主页整个世界</p></div>
     </a>
     <a href="https://www.han-zu.cn" target="_blank" class="card-item row-3" style="background: linear-gradient(to right,#feac5e,#c779d0,#4bc0c8);">
-      <img src="https://www.isosou.cn/ico/?url=https://www.han-zu.cn" onerror="this.src='/favicon.ico'" class="no-zoom">
+      <img src="https://cdn.wulintang.cn/ico/?url=https://www.han-zu.cn" onerror="this.src='/favicon.ico'" class="no-zoom">
       <div>
         <p class="name">汉族网</p>
-        <p class="desc">中国道教知识社区</p></div>
+        <p class="desc">道言网交互式社区</p></div>
     </a>
     <a href="https://www.yudao.org.cn" target="_blank" class="card-item row-3" style="background: linear-gradient(to right,#feac5e,#c779d0,#4bc0c8);">
       <img src="https://www.isosou.cn/ico/?url=https://www.yudao.org.cn" onerror="this.src='/favicon.ico'" class="no-zoom">
@@ -56,7 +50,7 @@ tags:
         <p class="desc">中国网络道教研究中心</p></div>
     </a>
     <a href="https://www.chntaoism.com" target="_blank" class="card-item row-3" style="background: linear-gradient(to right,#feac5e,#c779d0,#4bc0c8);">
-      <img src="https://www.isosou.cn/ico/?url=https://www.chtaoism.com" onerror="this.src='/favicon.ico'" class="no-zoom">
+      <img src="cdn.wulintang.cn/?url=https://www.chtaoism.com" onerror="this.src='/favicon.ico'" class="no-zoom">
       <div>
         <p class="name">兴汉同盟</p>
         <p class="desc">伍林堂兴汉同盟企业合伙</p></div>
@@ -71,13 +65,13 @@ tags:
 <div class="cardListContainer">
   <div class="card-list">
     <a href="https://wangjunwei.com/" target="_blank" class="card-item row-3" style="background: linear-gradient(to right,#feac5e,#c779d0,#4bc0c8);">
-      <img src="https://www.isosou.cn/ico/?url=https://www.wangjunwei.com/" onerror="this.src='/favicon.ico'" class="no-zoom">
+      <img src="https://cdn.wulintang.cn/ico/?url=https://www.wangjunwei.com/" onerror="this.src='/favicon.ico'" class="no-zoom">
       <div>
         <p class="name">王俊伟</p>
         <p class="desc">为伍林堂提供安全服务</p></div>
     </a>
     <a href="https://www.lizhichen.cn" target="_blank" class="card-item row-3" style="background: linear-gradient(to right,#feac5e,#c779d0,#4bc0c8);">
-      <img src="https://www.isosou.cn/ico/?url=https://www.lizhichen.cn" onerror="this.src='/favicon.ico'" class="no-zoom">
+      <img src="https://cdn.wulintang.cn/ico/?url=https://www.lizhichen.cn" onerror="this.src='/favicon.ico'" class="no-zoom">
       <div>
         <p class="name">懋和道人</p>
         <p class="desc">漏尽阁·修道乎总编撰</p></div>
